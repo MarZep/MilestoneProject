@@ -26,7 +26,7 @@ def realizar_accion (numero_accion,peliculas_lista):
 
 ### hasta aca funciones ########################################################################################
 
-############################### MAIN ###############################
+############################### MAINasd###############################
 
 mensaje = "Seleccionar accion a realizar: 1.Agregar pelicula 2.Mostrar todas mis peliculas " \
           "3.Buscar por titulo 4.Salir \n"
