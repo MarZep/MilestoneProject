@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcf3d35e-1cdd-4ebd-afd6-fd5f00fbf067" name="Changes" comment="Finalizado hasta el momento, todas las funcionalidades">
+    <list default="true" id="dcf3d35e-1cdd-4ebd-afd6-fd5f00fbf067" name="Changes" comment="Finalizado hasta el momento, todas las funcionalidades con mejoras">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637882265374</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Finalizado hasta el momento, todas las funcionalidades con mejoras">
+      <created>1637891970848</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1637891970848</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -156,6 +162,7 @@
     <MESSAGE value="Prueba 1" />
     <MESSAGE value="modificacion lista por lista de diccionarios" />
     <MESSAGE value="Finalizado hasta el momento, todas las funcionalidades" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finalizado hasta el momento, todas las funcionalidades" />
+    <MESSAGE value="Finalizado hasta el momento, todas las funcionalidades con mejoras" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finalizado hasta el momento, todas las funcionalidades con mejoras" />
   </component>
 </project>
