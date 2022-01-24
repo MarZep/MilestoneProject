@@ -10,7 +10,7 @@ def generar_diccionario_peliculas():
 def agregar_pelicula(peliculas_diccionario_vfuncion):
     pelicula_a_agregar = str(input("ingrese pelicula a agregar: \n"))
     director_a_agregar = str(input("ingrese director de la pelicula a agregar: \n"))
-    anio_de_pelicula_agregar = int(input("ingrese director de la pelicula a agregar: \n"))
+    anio_de_pelicula_agregar = int(input("ingrese anio de la pelicula a agregar: \n"))
     peliculas_diccionario_vfuncion.append({"pelicula": pelicula_a_agregar, "director": director_a_agregar,
                                            "año": anio_de_pelicula_agregar})
     return peliculas_diccionario_vfuncion
